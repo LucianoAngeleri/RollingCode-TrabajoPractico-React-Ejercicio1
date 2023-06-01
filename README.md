@@ -37,7 +37,7 @@ Después de haber instalado las dependencias, sigue los siguientes pasos para ej
 1. En la misma terminal, ejecuta el siguiente comando para iniciar la aplicación:
 
     ```
-    npm start
+    npm run dev
     ```
 
 2. Abre tu navegador web y ve a la dirección que aparece en la terminal, deberia ser algo como:
